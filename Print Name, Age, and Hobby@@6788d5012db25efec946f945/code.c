@@ -9,8 +9,8 @@ int main() {
     int b;
     char c[40];
     scanf("%s%d%s",&a,&b,&c);
-    printf("Name: %s",a);
-    printf("Age: %d",b);
+    printf("Name: %s\n",a);
+    printf("Age: %d\n",b);
     printf("Hobby: %s",c);
     return 0;
 }
