@@ -1,8 +1,4 @@
-#include <stdio.h>
-
-char* welcome() {
-    return "Welcome to Code Radar!";
-}
+#include <stdio>
 
 int main() {
     int a=4,b=9;
