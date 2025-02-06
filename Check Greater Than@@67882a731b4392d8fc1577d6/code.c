@@ -4,8 +4,8 @@
 int main() {
     int a=4;
     int b=9;
-    if{
-        a>b;
+    if (a>b){
+        
         printf("True");
     }
     else{
