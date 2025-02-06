@@ -1,7 +1,8 @@
 #include <stdio>
 
 int main() {
-    int a=4,b=9;
+    int a=4;
+    int b=9;
     if{
         a>b;
         printf("True");
